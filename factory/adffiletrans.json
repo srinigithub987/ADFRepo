@@ -1,0 +1,9 @@
+{
+	"name": "adffiletrans",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7008a7b0-975b-4732-8d44-648ae2c5a3f0",
+		"tenantId": "3f2dfeaf-01c9-4852-9be7-1ac8d2ecb09a"
+	}
+}
